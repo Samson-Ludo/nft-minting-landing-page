@@ -1,8 +1,10 @@
 import React from 'react'
 
+import { Navbar } from '@/components'
+
 function HeroSection() {
   return (
-    <div>HeroSection</div>
+    <div><Navbar /></div>
   )
 }
 
